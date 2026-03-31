@@ -35,15 +35,15 @@ Il progetto consiste in un'analisi data-driven approfondita del *Global Terroris
 * **Strumento:** Jupyter Notebook.
 
 ---
-*Disclaimer: Questi appunti sono personali, quindi soggetti a probabili allucinazioni e ad alcune interpretazioni. Inoltre, il progetto nonostante segua i punti proposti dal professore, non definisce in modo universale come lavora
-con i dati del GTD, ma rappresenta una specifica implementazione e interpretazione dei dati*
+
 
 # Fondamenti di Analisi di Dati - UNICT
 
 Questa repository contiene il materiale didattico e il progetto d'esame per il corso di **Fondamenti di Analisi di Dati** presso l'Università di Catania (UNICT). Il repository è suddiviso in due sezioni principali: una raccolta di appunti teorici completi e un'analisi pratica avanzata applicata a un dataset reale.
 
 > [!WARNING]
-> **Disclaimer:** Questi appunti sono personali, quindi soggetti a probabili allucinazioni e ad alcune interpretazioni. Inoltre, il progetto, nonostante segua i punti proposti dal professore, non definisce in modo universale come lavora con i dati del GTD (Global Terrorism Database).
+> **Disclaimer:** Questi appunti sono personali, quindi soggetti a probabili allucinazioni e ad alcune interpretazioni. Inoltre, il progetto nonostante segua i punti proposti dal professore, non definisce in modo universale come lavora
+con i dati del GTD, ma rappresenta una specifica implementazione e interpretazione dei dati.
 
 ---
 
